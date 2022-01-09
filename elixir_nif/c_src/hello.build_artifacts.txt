@@ -1,0 +1,9 @@
+[SHARED_LIB]
+hello.so
+
+[HEADER]
+hello.h
+graal_isolate.h
+hello_dynamic.h
+graal_isolate_dynamic.h
+
