@@ -1,9 +1,0 @@
-[SHARED_LIB]
-c_src/hello.so
-
-[HEADER]
-graal_isolate.h
-c_src/hello.h
-graal_isolate_dynamic.h
-c_src/hello_dynamic.h
-
